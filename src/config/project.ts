@@ -5,10 +5,10 @@ export const project = {
   tagline: 'Assistente de consulta ao acervo de notícias com RAG',
   repoUrl: 'https://github.com/ORG/REPO', // TODO: link do repositório
   members: [
-    { name: 'Integrante 1', role: 'Base e recuperação das notícias' },
-    { name: 'Integrante 2', role: 'Integração com o LLM e prompts' },
-    { name: 'Integrante 3', role: 'Interface, integração e publicação' },
-    { name: 'Integrante 4', role: 'Avaliação e documentação' },
+    { name: 'Maria Eduarda Nascimento', role: 'Base e recuperação das notícias' },
+    { name: 'Helena Luz', role: 'Integração com o LLM e prompts' },
+    { name: 'Carlos Eduardo Soler', role: 'Interface, integração e publicação' },
+    { name: 'Pedro Scarelli', role: 'Avaliação e documentação' },
   ],
   exampleQuestions: [
     'Quais notícias da base falam sobre contratações no futebol?',
